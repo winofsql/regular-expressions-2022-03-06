@@ -35,3 +35,12 @@ regularあ2022あ06
 ```
 regular-expressionsあ03-06
 ```
+
+### 文字集合の否定
+
+```
+-[^a-z]+?-
+```
+```
+regular-expressionsあ03-06
+```
